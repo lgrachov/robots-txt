@@ -1,0 +1,28 @@
+{
+  "name": "robots-dot-txt",
+  "version": "1.0.0",
+  "description": "A really lightweight and simple robots-txt parser.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lgrachov/robots-txt.git"
+  },
+  "author": "Lev Grachov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lgrachov/robots-txt/issues"
+  },
+  "homepage": "https://github.com/lgrachov/robots-txt#readme",
+  "keywords": [
+    "www",
+    "robots-txt",
+    "security",
+    "parser",
+    "world-wide-web",
+    "web",
+    "website"
+  ]
+}
